@@ -1,5 +1,7 @@
 # reproduce-blogpost
 
+![Dockerfile build CI](https://github.com/JayAchar/reproduce-blogpost/workflows/Docker%20Image%20CI/badge.svg)
+
 This repo contains sample code to support the
 ['Docker for Reproducibility'](https://jay.rbind.io/post/docker-for-reproducibility/)
 personal blog post.
